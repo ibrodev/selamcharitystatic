@@ -6,7 +6,7 @@ const Header = () => {
 
     <div className="container mx-auto px-4 z-10 h-full flex flex-col">
         <nav className="py-6 flex justify-between items-center">
-            <a href="/" className="text-white flex items-center flex-col w-max gap-1">
+            <a href="https://ibrodev.github.io/selamcharitystatic/" className="text-white flex items-center flex-col w-max gap-1">
                 <span className="text-4xl font-semibold">Selam</span>
                 <span className="w-52 text-center leading-snug text-sm">Charity & Development Association</span>
             </a>
