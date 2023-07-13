@@ -12,7 +12,7 @@ const Header = () => {
             </a>
 
             <ul className="text-base text-slate-400 gap-4 flex items-center">
-                <li><a href="/" className="hover:text-white text-white">Home</a></li>
+                <li><a href="https://ibrodev.github.io/selamcharitystatic/" className="hover:text-white text-white">Home</a></li>
                 <li><a href="#who-we-are" className="hover:text-white">Who We Are</a></li>
                 <li><a href="#causes" className="hover:text-white">Causes</a></li>
                 <li><a href="#photo-gallery" className="hover:text-white">Photo Gallery</a></li>
